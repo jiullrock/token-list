@@ -87,6 +87,18 @@
     },
     {
       "chainId": 101,
+      "address": "2GZ4ZwV2jujVe75CQsFifKQFHHXK2wgjTKzSdVe45VSX",
+      "symbol": "BRO",
+      "name": "Solana Brothers Token",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/D7jb9BZ/logo.jpg",
+      "tags": [],
+      "extensions": {
+        "telegram": "https://t.me/solana_brothers"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "9Sbzj4DnRW8qFnfvJWwXxQMRkWKAwHLs9NgDuBFjkVgW",
       "symbol": "PITDT",
       "name": "Picasso Token Div Test",
